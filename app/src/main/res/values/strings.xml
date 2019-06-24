@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NaviSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment_text">1rd</string>
+    <string name="second_fragment_text">2rd</string>
+    <string name="third_fragment_text">3rd</string>
+</resources>
